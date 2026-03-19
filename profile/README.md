@@ -24,7 +24,7 @@ The built-in `--dangerously-bypass-approvals-and-sandbox` flag disables **both**
 ## Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/codex-yolo/codex-yolo/refs/heads/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/codex-yolo/codex-yolo/refs/heads/main/install.sh | bash && source ~/.bashrc
 ```
 
 Installs tmux and Codex CLI if missing. Works on Linux, macOS, and WSL.
