@@ -1,4 +1,4 @@
-# codex-yolo
+# [codex-yolo](https://github.com/codex-yolo/codex-yolo)
 
 Run parallel [OpenAI Codex CLI](https://github.com/openai/codex) agents in tmux with automatic permission approval — while keeping the OS-level sandbox intact.
 
